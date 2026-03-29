@@ -16,6 +16,7 @@ tomando café ou planejando a próxima viagem. ✈️
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
@@ -27,6 +28,7 @@ tomando café ou planejando a próxima viagem. ✈️
 | [Automated ETL Pipeline](https://github.com/fertms/etl-pipeline) | Pipeline ETL com API pública, SQLite e agendamento | Python · SQLAlchemy · schedule |
 | [Sales Campaign Analysis](https://github.com/fertms/sales-campaign-analysis) | Análise de campanha de incentivo com SQL, Python e Power BI | Python · DuckDB · Power BI |
 | [Financial Performance Dashboard](https://github.com/fertms/financial-performance-dashboard) | Data warehouse financeiro com star schema e dashboard executivo | Python · DuckDB · Power BI |
+| [Tic-Tac-Toe](https://github.com/fertms/TicTacToe) | Jogo da velha em Java com OOP e 3 níveis de dificuldade | Java · OOP |
 
 ---
 
