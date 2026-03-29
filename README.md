@@ -23,8 +23,8 @@ tomando café ou planejando a próxima viagem. ✈️
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [E-Commerce EDA](https://github.com/fertms/ecommerce-eda) | Análise exploratória de 100k+ pedidos reais da Olist | Python · pandas · Power BI |
-| [ETL Pipeline](https://github.com/fertms/etl-pipeline) | Pipeline ETL com API pública, SQLite e agendamento | Python · SQLAlchemy · schedule |
+| [Brazilian E-Commerce EDA](https://github.com/fertms/ecommerce-eda) | Análise exploratória de 100k+ pedidos reais da Olist | Python · pandas · Power BI |
+| [Automated ETL Pipeline](https://github.com/fertms/etl-pipeline) | Pipeline ETL com API pública, SQLite e agendamento | Python · SQLAlchemy · schedule |
 | [Sales Campaign Analysis](https://github.com/fertms/sales-campaign-analysis) | Análise de campanha de incentivo com SQL, Python e Power BI | Python · DuckDB · Power BI |
 | [Financial Performance Dashboard](https://github.com/fertms/financial-performance-dashboard) | Data warehouse financeiro com star schema e dashboard executivo | Python · DuckDB · Power BI |
 
@@ -32,6 +32,6 @@ tomando café ou planejando a próxima viagem. ✈️
 
 ## 📈 Em desenvolvimento
 
-- 🏗️ Data Warehouse com star schema e DAX avançado
+- 🏗️ Mais projetos em breve!
 
 ---
