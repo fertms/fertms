@@ -29,11 +29,13 @@ tomando café ou planejando a próxima viagem. ✈️
 | [Sales Campaign Analysis](https://github.com/fertms/sales-campaign-analysis) | Análise de campanha de incentivo com SQL, Python e Power BI | Python · DuckDB · Power BI |
 | [Financial Performance Dashboard](https://github.com/fertms/financial-performance-dashboard) | Data warehouse financeiro com star schema e dashboard executivo | Python · DuckDB · Power BI |
 | [Tic-Tac-Toe](https://github.com/fertms/TicTacToe) | Jogo da velha em Java com OOP e 3 níveis de dificuldade | Java · OOP |
+| [NLP Review Analytics](https://github.com/fertms/nlp-review-analytics) | Análise de sentimento, topic modeling e classificação ML em reviews | Python · NLTK · scikit-learn · Power BI |
 
 ---
 
 ## 📈 Em desenvolvimento
 
-- 🏗️ Mais projetos em breve!
+- 🤖 Customer Intelligence Platform — clustering + churn prediction
+- 📈 Sales Forecasting Engine — séries temporais com Prophet e LSTM
 
 ---
