@@ -30,12 +30,12 @@ tomando café ou planejando a próxima viagem. ✈️
 | [Financial Performance Dashboard](https://github.com/fertms/financial-performance-dashboard) | Data warehouse financeiro com star schema e dashboard executivo | Python · DuckDB · Power BI |
 | [Tic-Tac-Toe](https://github.com/fertms/TicTacToe) | Jogo da velha em Java com OOP e 3 níveis de dificuldade | Java · OOP |
 | [NLP Review Analytics](https://github.com/fertms/nlp-review-analytics) | Análise de sentimento, topic modeling e classificação ML em reviews | Python · NLTK · scikit-learn · Power BI |
+| [Customer Intelligence Platform](https://github.com/fertms/customer-intelligence-platform) | Plataforma end-to-end de analytics com RFM, clustering (K-Means) e modelos preditivos de churn e anomalias | Python · Scikit-Learn · XGBoost · Power BI |
 
 ---
 
 ## 📈 Em desenvolvimento
 
-- 🤖 Customer Intelligence Platform — clustering + churn prediction
 - 📈 Sales Forecasting Engine — séries temporais com Prophet e LSTM
 
 ---
