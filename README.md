@@ -17,6 +17,7 @@ tomando café ou planejando a próxima viagem. ✈️
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 ---
 
@@ -31,6 +32,7 @@ tomando café ou planejando a próxima viagem. ✈️
 | [Tic-Tac-Toe](https://github.com/fertms/TicTacToe) | Jogo da velha em Java com OOP e 3 níveis de dificuldade | Java · OOP |
 | [NLP Review Analytics](https://github.com/fertms/nlp-review-analytics) | Análise de sentimento, topic modeling e classificação ML em reviews | Python · NLTK · Scikit-Learn · Power BI |
 | [Customer Intelligence Platform](https://github.com/fertms/customer-intelligence-platform) | Plataforma end-to-end de analytics com RFM, clustering (K-Means) e modelos preditivos de churn e anomalias | Python · Scikit-Learn · XGBoost · Power BI |
+| [AutoPeças Central — BI Consulting](https://github.com/fertms/autoparts-bi-consulting) | Consultoria de BI completa com dataset simulado, Google Sheets e dashboard executivo no Looker Studio | Python · Google Sheets · Looker Studio |
 
 ---
 
